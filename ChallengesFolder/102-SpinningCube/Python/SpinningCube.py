@@ -3,6 +3,9 @@
 Programming Challenge 102
 Draw a 3D spinning cube
 
+Started: 12/31/2021
+Finished: 12/31/2021
+
 '''
 
 import pygame

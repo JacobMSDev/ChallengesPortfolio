@@ -1,3 +1,6 @@
+
+Started: 1/1/2022
+
 global _start         ; Specify entry point
 
 section .data:
