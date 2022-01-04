@@ -8,8 +8,8 @@ Currently implemented effects are:
 
 More will be added later.
 
-###### Moire
+## Moire
 ![Moire image](/ChallengesFolder/43-OldSchoolDemoEffect/Python/MoireImage.png)
 
-###### Fire
+## Fire
 ![Fire image](/ChallengesFolder/43-OldSchoolDemoEffect/Python/FireImage.png)
