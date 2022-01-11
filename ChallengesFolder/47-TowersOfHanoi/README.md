@@ -6,4 +6,4 @@ Haven't added a any sort of winning screen or instructions because I thought tha
 
 I also don't feel too good about how the pieces snap to the towers but I'm not currently sure of a better way to implement the piece movement.
 
-![Image of the towers](/ChallengesFolder/47-TowersOfHanoi/Python/GameExample.png)
+![Image of the towers](/ChallengesFolder/47-TowersOfHanoi/Python/gameExample.png)
