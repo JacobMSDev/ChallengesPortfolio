@@ -15,6 +15,9 @@ Scalled from 274x186 to 170x186
 
 ## Examples of the backend process
 Calculate the gradient magnitude for each pixel.
+
 ![Gradient stage](/ChallengesFolder/142-SeamCarving/Python/Output/A-2.png)
+
 Determine the seam of lowest energy.
+
 ![Seam stage](/ChallengesFolder/142-SeamCarving/Python/Output/B-2.png)
