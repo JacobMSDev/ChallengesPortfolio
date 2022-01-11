@@ -10,6 +10,7 @@ Regardless, I think this algorithm is extremely interesting although I don't see
 ## Example input and output
 Image source: https://en.wikipedia.org/wiki/Seam_carving
 Scalled from 274x186 to 170x186
+
 ![Reference image](/ChallengesFolder/142-SeamCarving/Python/ReferenceImage.png) ![Output image](/ChallengesFolder/142-SeamCarving/Python/OutputImage.png)
 
 ## Examples of the backend process
